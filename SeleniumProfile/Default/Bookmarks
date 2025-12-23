@@ -1,0 +1,59 @@
+{
+   "checksum": "4cfc6eb285fc4809107d5e5ab0ace776",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13410722050431331",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13382882732435974",
+            "date_last_used": "0",
+            "guid": "be5c84d9-2564-4cc0-9eda-704ab4af986c",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Lameh Deleter (test@lameh.ai)",
+            "type": "url",
+            "url": "https://reqbin.com/c-5g5ttuel"
+         }, {
+            "date_added": "13391001049242037",
+            "date_last_used": "0",
+            "guid": "d856c8d1-b9e1-4435-8671-9cc92020dea8",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Homepage • PostHog",
+            "type": "url",
+            "url": "https://us.posthog.com/project/121877"
+         } ],
+         "date_added": "13410722050431331",
+         "date_last_used": "0",
+         "date_modified": "13391001049242037",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13410722050431331",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CpYCCvUBCIiBAhLuASAAkgHZAQrWAQoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJA+hfxWRGBgARA+hfxWRGBgAiNAn2+EzFZEYGABADGVmE7vIiM3vjIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAn2+EzFZEYGABADGVmE7vIiM3vjIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAn2+EzFZEYGABADGVmE7vIiM3vjIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEpa4pgxWRGBgDqAQwIoqCbygYQgKX2lwESACoYdmNmcGtwU0dPOGJ6QjJLR2tONlZ3UT09SAMS6wEIBRLmAQocRkgvY0JMQTZEOVhmWkdpUkRJc1VVMisyaDBjPRJmWjpBRHF0QVp3cE50Ky9zU1d3OUVXT2tXZlc1WkpkZzFqcHBnakc0VU16dEJQKzVnbUV1K1lZVVhtWFdaMXJ3MWhSUW1MK1JDSmxBVUFweEswcXc3Q2RTb3JYbllCZ0ZTcTd2Zz09GAAgACgAMI2WpNeuoosDOJSDiYrMMkCUg4mKzDJKHE51M01MTFlTdzJwWm9oMUY1Tzl3R3krVHF4Yz1aHiIcZnovdTdhcTkwaWV0amdramYraFdKazhKODJVPWXMweiJEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeTdCdlc5TGxtT3Y0cFhGYWpqWmZXbXY4YnRSVE1yOEdZRzJ6QWp3K2ZGWnF0MkRUZXMxRjQ2NVkxUjlodkdBYlBadjhVcXFTdFVwdTJFM1Ywbkd0N0N4ZEROR3c9PRgAIAAoADD28bOqzMyRAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaeGhya2lUdkl6Nzh4Tmw5YkNBMUpiK0RxU1JVMVFQSGhGUGNZczN5UERZVTJUcmllUHQzOWlTV0gyRGd3MGlSOUdOUGhGSEE4d3NZUFdyVlBNcDR5MFYwTTM2TFE9PRgAIAAoADD28bOqzMyRAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEusBCAYS5gEKHHlkY0VLRFZLVzhZYUdvZGE0eE9OVWx3UkxKND0SZlo6QURxdEFad3BOdCsvc1NXdzlFV09rV2ZXNVpKZDF3WUEzTzBSc2pwSTUzR1NDNVJhNVJWTlRGWDJNMXZVSFRMMjhrLzUxWWtvSmJyak1EeTUzZFFLNW9PZFVSenZianRYOFE9PRgAIAAoADDT3I7vi5GPAzia4Zep6jJAmuGXqeoyShw0Tlo5ejM1MzcvOThEUHJ4OUVjd2RRZm5QdkE9Wh4iHHBwU1pIemphbHZUWkZUeXIwUDEvdngwTFU2ST1lXhhLfRKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnhpTWQ5Yk5ZMk1BRGZtZDFpR204VVQwd3Y2RFZpYVFjSmJWcSszNGROalZSV21IelN5ajd6dXZOalA3OHBZSFV2OHQvVVgYACAAKAAw9vGzqszMkQM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAADABOAA=",
+   "version": 1
+}

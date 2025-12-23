@@ -1,0 +1,18 @@
+2025/12/20-21:45:34.988 7ce0 Reusing MANIFEST C:\Users\loq\PycharmProjects\PythonProject1\SeleniumProfile\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/20-21:45:34.988 7ce0 Recovering log #68
+2025/12/20-21:45:34.992 7ce0 Reusing old log C:\Users\loq\PycharmProjects\PythonProject1\SeleniumProfile\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/000068.log 
+2025/12/20-21:45:36.410 31e4 Level-0 table #76: started
+2025/12/20-21:45:36.427 31e4 Level-0 table #76: 3050965 bytes OK
+2025/12/20-21:45:36.429 31e4 Delete type=0 #68
+2025/12/20-21:45:38.471 7ce0 Compacting 1@1 + 4@2 files
+2025/12/20-21:45:38.494 7ce0 Generated table #77@1: 229 keys, 2338282 bytes
+2025/12/20-21:45:38.512 7ce0 Generated table #78@1: 230 keys, 2319234 bytes
+2025/12/20-21:45:38.533 7ce0 Generated table #79@1: 315 keys, 2418190 bytes
+2025/12/20-21:45:38.555 7ce0 Generated table #80@1: 398 keys, 2215253 bytes
+2025/12/20-21:45:38.555 7ce0 Compacted 1@1 + 4@2 files => 9290959 bytes
+2025/12/20-21:45:38.557 7ce0 compacted to: files[ 0 0 4 0 0 0 0 ]
+2025/12/20-21:45:38.557 7ce0 Delete type=2 #70
+2025/12/20-21:45:38.558 7ce0 Delete type=2 #71
+2025/12/20-21:45:38.558 7ce0 Delete type=2 #72
+2025/12/20-21:45:38.558 7ce0 Delete type=2 #73
+2025/12/20-21:45:38.558 7ce0 Delete type=2 #76

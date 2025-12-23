@@ -1,0 +1,33 @@
+2025/12/20-21:32:56.704 b11c Reusing MANIFEST C:\Users\loq\PycharmProjects\PythonProject1\SeleniumProfile\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/20-21:32:56.705 b11c Recovering log #55
+2025/12/20-21:32:56.710 b11c Reusing old log C:\Users\loq\PycharmProjects\PythonProject1\SeleniumProfile\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/000055.log 
+2025/12/20-21:32:58.745 1db8 Level-0 table #63: started
+2025/12/20-21:32:58.767 1db8 Level-0 table #63: 3023302 bytes OK
+2025/12/20-21:32:58.770 1db8 Delete type=0 #55
+2025/12/20-21:33:00.626 b11c Compacting 1@1 + 4@2 files
+2025/12/20-21:33:00.651 b11c Generated table #64@1: 232 keys, 2347863 bytes
+2025/12/20-21:33:00.669 b11c Generated table #65@1: 240 keys, 2319226 bytes
+2025/12/20-21:33:00.694 b11c Generated table #66@1: 351 keys, 2468673 bytes
+2025/12/20-21:33:00.709 b11c Generated table #67@1: 231 keys, 1134909 bytes
+2025/12/20-21:33:00.709 b11c Compacted 1@1 + 4@2 files => 8270671 bytes
+2025/12/20-21:33:00.710 b11c compacted to: files[ 0 0 4 0 0 0 0 ]
+2025/12/20-21:33:00.710 b11c Delete type=2 #57
+2025/12/20-21:33:00.711 b11c Delete type=2 #58
+2025/12/20-21:33:00.711 b11c Delete type=2 #59
+2025/12/20-21:33:00.711 b11c Delete type=2 #60
+2025/12/20-21:33:00.711 b11c Delete type=2 #63
+2025/12/20-21:33:10.356 b11c Level-0 table #69: started
+2025/12/20-21:33:10.376 b11c Level-0 table #69: 3039559 bytes OK
+2025/12/20-21:33:10.377 b11c Delete type=0 #62
+2025/12/20-21:33:26.398 1db8 Compacting 1@1 + 4@2 files
+2025/12/20-21:33:26.418 1db8 Generated table #70@1: 231 keys, 2345248 bytes
+2025/12/20-21:33:26.433 1db8 Generated table #71@1: 235 keys, 2316719 bytes
+2025/12/20-21:33:26.454 1db8 Generated table #72@1: 337 keys, 2447920 bytes
+2025/12/20-21:33:26.468 1db8 Generated table #73@1: 290 keys, 1508827 bytes
+2025/12/20-21:33:26.469 1db8 Compacted 1@1 + 4@2 files => 8618714 bytes
+2025/12/20-21:33:26.470 1db8 compacted to: files[ 0 0 4 0 0 0 0 ]
+2025/12/20-21:33:26.470 1db8 Delete type=2 #64
+2025/12/20-21:33:26.470 1db8 Delete type=2 #65
+2025/12/20-21:33:26.471 1db8 Delete type=2 #66
+2025/12/20-21:33:26.471 1db8 Delete type=2 #67
+2025/12/20-21:33:26.471 1db8 Delete type=2 #69
