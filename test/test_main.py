@@ -40,7 +40,7 @@ class Test_Login:
             EC.visibility_of_element_located((By.CSS_SELECTOR, "input[type='email']"))
         )
         email_input.clear()
-        email_input.send_keys("")
+        email_input.send_keys("asdasdasda")
 
 
         success_indicator = (By.CSS_SELECTOR, "div.go2072408551")
