@@ -22,5 +22,5 @@ class LoginPage(LoginPageLocators):
     def input_password(self, password):
         self.sl.wait_and_input_text(self.INPUT_PASSWORD, password)
 
-    def click_login(self):
+    def click_send_code(self):
         self.sl.wait_and_click(self.SEND_BTN_LOCATOR)

@@ -96,11 +96,12 @@ allure serve allure_reports
 ```python
 from Lameh.src.pages.LoginPage import LoginPage
 
+
 def test_login(driver):
     login_page = LoginPage(driver)
     login_page.input_email("user@example.com")
     login_page.input_password("password123")
-    login_page.click_login()
+    login_page.click_send_code()
 ```
 
 ### Using Fixtures
