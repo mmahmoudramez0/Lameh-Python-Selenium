@@ -13,8 +13,7 @@ def setup_chrome(request):
     # --- 1. SETUP OPTIONS ---
     options = Options()
 
-    # POINT TO YOUR CUSTOM FOLDER
-    # IMPORTANT: Do not add the "\Default" at the end, Selenium adds it automatically
+    # Chrome Profile (needed for Gmail login persistence)
     options.add_argument(r"user-data-dir=C:\Users\loq\PycharmProjects\PythonProject1\SeleniumProfile")
 
     # Optional: Prevents "Chrome is being controlled by automated software" bar

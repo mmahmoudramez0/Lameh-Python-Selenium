@@ -15,10 +15,7 @@ env/
 *.swo
 
 # Selenium
-SeleniumProfile/
-*.log
-chromedriver
-geckodriver
+SeleniumProfile/*
 
 # Test outputs
 *.html
