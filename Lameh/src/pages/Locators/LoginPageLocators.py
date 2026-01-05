@@ -8,3 +8,4 @@ class LoginPageLocators:
     INPUT_PASS_Code= (By.CSS_SELECTOR, 'input[type="password"]')
     SUCCESS_INDICATOR = (By.CSS_SELECTOR, "div.go2072408551")
     SEND_BTN_LOCATOR = (By.XPATH, "//button[text()='Send Code']")
+    NOT_VALID_EMAIL_INDICATOR = (By. XPATH, "//div[text()=\"Couldn't find your account.\"]")

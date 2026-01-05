@@ -24,3 +24,9 @@ class LoginPage(LoginPageLocators):
 
     def click_send_code(self):
         self.sl.wait_and_click(self.SEND_BTN_LOCATOR)
+
+    def wait_until_error_is_displayed(self,expected_error):
+
+        self.sl.wait_until_element_contains_text(self.NOT_VALID_EMAIL_INDICATOR,expected_error)
+
+
