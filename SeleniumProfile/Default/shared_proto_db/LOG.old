@@ -1,6 +1,3 @@
-2026/01/02-10:18:40.668 3938 Reusing MANIFEST C:\Users\loq\PycharmProjects\PythonProject1\SeleniumProfile\Default\shared_proto_db/MANIFEST-000001
-2026/01/02-10:18:40.668 3938 Recovering log #3
-2026/01/02-10:18:40.670 3938 Reusing old log C:\Users\loq\PycharmProjects\PythonProject1\SeleniumProfile\Default\shared_proto_db/000003.log 
-2026/01/02-10:18:40.709 3938 Level-0 table #5: started
-2026/01/02-10:18:40.734 3938 Level-0 table #5: 114115 bytes OK
-2026/01/02-10:18:40.745 3938 Delete type=0 #3
+2026/01/05-16:39:44.006 afbc Reusing MANIFEST C:\Users\loq\PycharmProjects\PythonProject1\SeleniumProfile\Default\shared_proto_db/MANIFEST-000001
+2026/01/05-16:39:44.007 afbc Recovering log #4
+2026/01/05-16:39:44.008 afbc Reusing old log C:\Users\loq\PycharmProjects\PythonProject1\SeleniumProfile\Default\shared_proto_db/000004.log 

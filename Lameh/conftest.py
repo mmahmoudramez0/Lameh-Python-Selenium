@@ -16,6 +16,9 @@ def setup_chrome(request):
 
     # Chrome Profile (needed for Gmail login persistence)
     options.add_argument(r"user-data-dir=C:\Users\loq\PycharmProjects\PythonProject1\SeleniumProfile")
+    options.add_argument("--headless")
+    options.add_argument('--disable-gpu')
+    options.add_argument("--no-sandbox")
 
     # Optional: Prevents "Chrome is being controlled by automated software" bar
     # options.add_argument("disable-infobars")

@@ -13,6 +13,7 @@ class TestLoginNegative:
 
         login_page = LoginPage(self.driver)
         login_page.go_to_login_page()
-        login_page.input_email("asdasdasd")
+        login_page.input_email("asdasdasd@gmail.com")
         login_page.click_send_code()
+        expected_error = '''Couldn't find your account.'''
         login_page.wait_until_error_is_displayed(expected_error)
